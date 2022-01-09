@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+/* Header Section  */
+.navbbar{
+  width: 100%;
+  padding: 25px 0;
+}
+.logo{
+  display: none;
+}
+.navbbar ul li{
+  margin: 0 5px;
+}
+.navbbar ul li a{
+  font-size: 8px;
+}
+.content h1{
+  font-size: 40px;
+}
+.content p{
+  font-size: 13px;
+}
+button{
+  width: 120px;
+}
